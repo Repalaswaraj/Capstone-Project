@@ -1,0 +1,28 @@
+[
+    {
+        "title":"'OS' computer abbrevation usually means ?",
+        "options":["Order of Signifiance","Open Software","Operating System","None of the these"],
+        "correctOptionIndex":"2"
+    },
+    {
+        "title":"Which animal is known as the 'Ship of the Desert ?",
+        "options":["Tiger","Camel","Elephant","None of the these"],
+        "correctOptionIndex":"1"
+    },
+    {
+        "title":"Total number of planets in our solar system ?",
+        "options":["8","9","6","5"],
+        "correctOptionIndex":"0"
+    },
+    {
+        "title":"How many days are there in a leap year ?",
+        "options":["365","366","364","None of the these"],
+        "correctOptionIndex":"1"
+    },
+    {
+        "title":"how many colors are the in a rainbow ?",
+        "options":["5","7","6","10"],
+        "correctOptionIndex":"1"
+    }
+   
+]
